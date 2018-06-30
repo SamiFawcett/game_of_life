@@ -95,7 +95,7 @@ public class Simulate
     }
 
     public static void main(String fileName) throws InterruptedException{
-        Simulate s = new Simulate(10,10, fileName, true);
+        Simulate s = new Simulate(50,50, fileName, true);
         while(s.old_board.cellsOnGrid > 0){
             if(StdDraw.isKeyPressed(KeyEvent.VK_ENTER)){
                 s.tick();
