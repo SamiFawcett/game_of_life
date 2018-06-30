@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CellGenerator
+comment1.params=fileName\ amountOfCells\ rows\ cols
+comment1.target=CellGenerator(java.lang.String,\ int,\ int,\ int)
+numComments=2

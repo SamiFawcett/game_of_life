@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Simulate
+comment1.params=rows\ cols\ fileName\ generate_cells
+comment1.target=Simulate(int,\ int,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ updateNewBoard()
+comment3.params=
+comment3.target=Grid\ getOld()
+comment4.params=
+comment4.target=void\ tick()
+comment5.params=rows\ cols\ fileName\ generateCells
+comment5.target=void\ run(int,\ int,\ java.lang.String,\ boolean)
+comment6.params=fileName
+comment6.target=void\ main(java.lang.String)
+numComments=7

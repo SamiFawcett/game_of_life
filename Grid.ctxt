@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Grid
+comment1.params=rows\ cols
+comment1.target=Grid(int,\ int)
+comment2.params=rows\ cols\ liveCells
+comment2.target=Grid(int,\ int,\ java.util.List)
+comment3.params=c
+comment3.target=void\ alive(Coordinate)
+comment4.params=c
+comment4.target=void\ dead(Coordinate)
+comment5.params=x\ y
+comment5.target=boolean\ cell(int,\ int)
+comment6.params=
+comment6.target=boolean[][]\ getGridValues()
+comment7.params=fileName
+comment7.target=void\ selectLive(java.lang.String)
+comment8.params=
+comment8.target=void\ draw()
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Reader
+comment1.params=fileName
+comment1.target=Reader(java.lang.String)
+comment2.params=fileName
+comment2.target=boolean\ read(java.lang.String)
+comment3.params=
+comment3.target=java.util.List\ getLiveCells()
+numComments=4
